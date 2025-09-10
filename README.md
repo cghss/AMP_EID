@@ -14,13 +14,13 @@ _Access and Benefits Sharing_: Data last updated March 1, 2024
 
 The goal of access and benefit-sharing (ABS) in global health governance is to ensure that countries that provide access to genetic resources, including pathogens, receive equitable access to the benefits derived from their use. The increasing digitalisation of health data has brought this issue to the forefront of discussions on global health security and health equity. While originally conceptualised in supranational agreements, implementation of these treaties requires national-level legislation in each country. 
 
-[Read the peer reviewed ABS manuscript!](10.1136/bmjph-2024-001800) 
+[Read the peer reviewed ABS manuscript!](https://doi.org/10.1136/bmjph-2024-001800)
 
 _Antimicrobial resistance and water, sanitation, and hygiene_: Data last updated August 1, 2023
 
 Unsafe water, sanitation and hygiene (WASH) contributes to a high burden of disease and exacerbates factors that promote the development of antimicrobial resistance (AMR). Enforceable policies are foundational to curbing inappropriate use of antimicrobials and providing safe WASH. While many countries have established National Action Plans for AMR that include provisions for WASH, few have codified these plans into legally enforceable policy. Here, we provide a comprehensive map and describe the current regulatory environment for WASH.
 
-[Read the peer reviewed AMR WASH manuscript!](10.1136/bmjgh-2023-013855)
+[Read the peer reviewed AMR WASH manuscript!](https://doi.org/10.1136/bmjgh-2023-013855)
 
 _Childhood Vaccination and General Vaccination Policy_ Data last updated March 1, 2024
 
@@ -32,7 +32,7 @@ _Military Engagement_ Data last updated March 1, 2024
 
 Throughout the COVID-19 pandemic, militaries around the world mobilized at an unprecedented scale to support domestic response efforts. This was consistent with the growing trend of asset mobilization for military operations other than war during public health emergencies. However, the global scale and vast breadth of civil-military cooperation during the pandemic invites new considerations regarding the authority and scope of domestic operations of militaries during public health emergencies. We have systematically analyzed domestic military deployment policies in each UN member state, focusing on the authority, execution and scope of military involvement pertaining to domestic public health emergencies.
 
-[Read the preprinted manuscript for Military Engagement!]([https://doi.org/10.1016/j.vaccine.2025.127121](https://doi.org/10.1101/2024.10.12.24315372))
+[Read the preprinted manuscript for Military Engagement!](https://doi.org/10.1101/2024.10.12.24315372)
 
 _Quarantine and Isolation_ Data last updated March 1, 2024
 
@@ -44,7 +44,7 @@ _Trade and Intellectual Property_ Data last updated February 28, 2023
 
 Given the challenges associated with negotiating the COVID-19 Trade-Related Aspects of Intellectual Property Rights (TRIPS) Waiver, there are questions as to whether the World Trade Organization is able to effectively address pandemics and global crises under the current architecture. Although the framework set out by the TRIPS Agreement does not view intellectual property (IP) rights as a means to foster public health and development, IP rights should nonetheless be interpreted through a public health lens. Countries should implement compulsory licensing provisions into their patent legislation, which increase access to medicines and allow governments (especially in developing and least-developed countries) to better protect public health.
 
-[Read the TRIPS manuscript!](10.1111/1468-0009.12669)
+[Read the TRIPS manuscript!](https://doi.org/10.1111/1468-0009.12669)
 
 **Methods**
 
