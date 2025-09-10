@@ -22,25 +22,25 @@ Unsafe water, sanitation and hygiene (WASH) contributes to a high burden of dise
 
 [Read the peer reviewed AMR WASH manuscript!](https://doi.org/10.1136/bmjgh-2023-013855)
 
-_Childhood Vaccination and General Vaccination Policy_ Data last updated March 1, 2024
+_Childhood Vaccination and General Vaccination Policy_: Data last updated March 1, 2024
 
 Vaccine preventable diseases (VPD) present a resurgent threat to global health security and jeopardize decades of advancements in public health and economic development. Since 1974, childhood vaccinations are estimated to have prevented 154 million deaths from VPD, yet recent declines in routine vaccination rates highlight the global population's growing vulnerability to these diseases. When paired with appropriate access to healthcare and trusted information, evidence informed enforceable policies have demonstrably improved childhood vaccination rates in countries that have recently implemented more stringent laws on routine vaccination. Here we comprehensively map and describe the current legal environment for childhood vaccination.
 
 [Read the peer reviewed Vaccination manuscript!](https://doi.org/10.1016/j.vaccine.2025.127121)
 
-_Military Engagement_ Data last updated March 1, 2024
+_Military Engagement_: Data last updated March 1, 2024
 
 Throughout the COVID-19 pandemic, militaries around the world mobilized at an unprecedented scale to support domestic response efforts. This was consistent with the growing trend of asset mobilization for military operations other than war during public health emergencies. However, the global scale and vast breadth of civil-military cooperation during the pandemic invites new considerations regarding the authority and scope of domestic operations of militaries during public health emergencies. We have systematically analyzed domestic military deployment policies in each UN member state, focusing on the authority, execution and scope of military involvement pertaining to domestic public health emergencies.
 
 [Read the preprinted manuscript for Military Engagement!](https://doi.org/10.1101/2024.10.12.24315372)
 
-_Quarantine and Isolation_ Data last updated March 1, 2024
+_Quarantine and Isolation_: Data last updated March 1, 2024
 
 Countries across the world implemented diverse quarantine and isolation policies throughout the COVID-19 pandemic with varying levels of efficacy. Their widespread use invites new considerations regarding the effectiveness of domestic quarantine and isolation policies, the ways they are enforced, and the jurisdictions responsible for ordering these measures. 
 
 Quarantine and Isolation Manuscript under review. 
 
-_Trade and Intellectual Property_ Data last updated February 28, 2023
+_Trade and Intellectual Property_: Data last updated February 28, 2023
 
 Given the challenges associated with negotiating the COVID-19 Trade-Related Aspects of Intellectual Property Rights (TRIPS) Waiver, there are questions as to whether the World Trade Organization is able to effectively address pandemics and global crises under the current architecture. Although the framework set out by the TRIPS Agreement does not view intellectual property (IP) rights as a means to foster public health and development, IP rights should nonetheless be interpreted through a public health lens. Countries should implement compulsory licensing provisions into their patent legislation, which increase access to medicines and allow governments (especially in developing and least-developed countries) to better protect public health.
 
